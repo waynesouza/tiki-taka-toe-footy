@@ -1,0 +1,94 @@
+[
+    {
+        "id": 6,
+        "name": "BRA"
+    },
+    {
+        "id": 3,
+        "name": "FRA"
+    },
+    {
+        "id": 5,
+        "name": "POR"
+    },
+    {
+        "id": 11,
+        "name": "ARG"
+    },
+    {
+        "id": 2,
+        "name": "SPA"
+    },
+    {
+        "id": 8,
+        "name": "NED"
+    },
+    {
+        "id": 10,
+        "name": "GER"
+    },
+    {
+        "id": 14,
+        "name": "SRB"
+    },
+    {
+        "id": 12,
+        "name": "ITA"
+    },
+    {
+        "id": 13,
+        "name": "BEL"
+    },
+    {
+        "id": 17,
+        "name": "DEN"
+    },
+    {
+        "id": 15,
+        "name": "CRO"
+    },
+    {
+        "id": 1,
+        "name": "ENG"
+    },
+    {
+        "id": 16,
+        "name": "URU"
+    },
+    {
+        "id": 27,
+        "name": "SWE"
+    },
+    {
+        "id": 28,
+        "name": "Switzerland"
+    },
+    {
+        "id": 37,
+        "name": "Norway"
+    },
+    {
+        "id": 25,
+        "name": "Nigeria"
+    },
+    {
+        "id": 29,
+        "name": "Ghana"
+    },
+    {
+        "id": 22,
+        "name": "Cameroon"
+    },
+    {
+        "id": 18,
+        "name": "Senegal"
+    },
+    {
+        "id": 26,
+        "name": "Morocco"
+    },
+    {
+        "id": 41,
+        "name": "Ivory Coast"
+    }
+]
